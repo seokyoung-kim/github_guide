@@ -84,6 +84,12 @@ commit한 데이터를 Github에 송신(push)한다.
 
 여기까지 에러 없이 진행되면, Github에 데이터가 등록된다.
 
+※ 로그온이 안 되어 있을 시 미리 global로 입력해놓는다.
+```
+git config --global user.name "유저이름"
+git config --global user.email "유저메일"
+```
+
 <br/>
 
 ### 1차 정리
